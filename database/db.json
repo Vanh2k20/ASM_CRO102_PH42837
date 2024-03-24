@@ -1,0 +1,161 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "pass": "adim123",
+      "avatar": "https://i.pinimg.com/474x/6d/50/9d/6d509d329b23502e4f4579cbad5f3d7f.jpg",
+      "fullname": "Vũ Thị Vân Anh"
+    },
+    {
+      "id": "2",
+      "email": "sang@gmail.com",
+      "pass": "sang123",
+      "avatar": "https://i.pinimg.com/474x/6d/50/9d/6d509d329b23502e4f4579cbad5f3d7f.jpg",
+      "fullname": "Lê Đăng Sang"
+    },
+    {
+      "id": "3",
+      "email": "a",
+      "avatar": "https://i.pinimg.com/564x/77/3d/e8/773de85e694e8f88ed08ff5509ae4355.jpg",
+      "pass": "a",
+      "fullname": "Lê Đăng Sang"
+    }
+  ],
+  "plants": [
+    {
+      "id": "1",
+      "name": "Spider plant",
+      "price": "250.000",
+      "img": "https://i.pinimg.com/474x/7e/0b/34/7e0b34bd83b6be958b31f58d7e9cb91c.jpg",
+      "type": true,
+      "origin": "Châu phi",
+      "quantity": "156",
+      "status": "1",
+      "size": "Small",
+      "description": "Cây cảnh siêu đẹp, dùng để trang trí cho ngôi nhà"
+    },
+    {
+      "id": "2",
+      "name": "Spider",
+      "price": "350.000",
+      "img": "https://i.pinimg.com/474x/7e/0b/34/7e0b34bd83b6be958b31f58d7e9cb91c.jpg",
+      "type": false,
+      "origin": "Châu phi",
+      "quantity": "156",
+      "status": "1",
+      "size": "Big",
+      "description": "Cây cảnh siêu đẹp, dùng để trang trí cho ngôi nhà"
+    },
+    {
+      "id": "3",
+      "name": "Bonsai",
+      "price": "120.000",
+      "img": "https://i.pinimg.com/474x/99/a9/07/99a9077b2fa7c97deade2a81c51c13f4.jpg",
+      "type": true,
+      "origin": "Châu phi",
+      "quantity": "156",
+      "status": "1",
+      "size": "Small",
+      "description": "Cây cảnh siêu đẹp, dùng để trang trí cho ngôi nhà"
+    },
+    {
+      "id": "4",
+      "name": "Spider plant",
+      "price": "350.000",
+      "img": "https://i.pinimg.com/474x/e8/e1/7a/e8e17aecbb6125a0a3491ad961827b2a.jpg",
+      "type": false,
+      "origin": "Châu phi",
+      "quantity": "156",
+      "status": "1",
+      "size": "Big",
+      "description": "Cây cảnh siêu đẹp, dùng để trang trí cho ngôi nhà"
+    },
+    {
+      "id": "5",
+      "name": "Tree plant",
+      "price": "350.000",
+      "img": "https://i.pinimg.com/474x/7e/0b/34/7e0b34bd83b6be958b31f58d7e9cb91c.jpg",
+      "type": true,
+      "origin": "Châu phi",
+      "quantity": "156",
+      "status": "1",
+      "size": "Big",
+      "description": "Cây cảnh siêu đẹp, dùng để trang trí cho ngôi nhà"
+    },
+    {
+      "id": "6",
+      "name": "Bonsai",
+      "price": "350.000",
+      "img": "https://i.pinimg.com/474x/7e/0b/34/7e0b34bd83b6be958b31f58d7e9cb91c.jpg",
+      "type": true,
+      "origin": "Châu phi",
+      "quantity": "156",
+      "status": "1",
+      "size": "Big",
+      "description": "Cây cảnh siêu đẹp, dùng để trang trí cho ngôi nhà"
+    }
+  ],
+  "plantas": [
+    {
+      "id": "1",
+      "name": "Planta Trắng",
+      "price": "250.000",
+      "img": "https://i.pinimg.com/474x/99/a9/07/99a9077b2fa7c97deade2a81c51c13f4.jpg",
+      "quantity": "156",
+      "status": "1",
+      "description": "Chậu câu màu trắng, dùng để trồng cây"
+    },
+    {
+      "id": "2",
+      "name": "Planta Đen",
+      "price": "250.000",
+      "img": "https://i.pinimg.com/474x/3e/11/78/3e11786e5920acb41216280c0303c180.jpg",
+      "quantity": "156",
+      "status": "1",
+      "description": "Chậu câu màu đen, dùng để trồng cây"
+    },
+    {
+      "id": "3",
+      "name": "Planta Đen",
+      "price": "250.000",
+      "img": "https://i.pinimg.com/474x/3e/11/78/3e11786e5920acb41216280c0303c180.jpg",
+      "quantity": "156",
+      "status": "1",
+      "description": "Chậu câu màu đen, dùng để trồng cây"
+    },
+    {
+      "id": "4",
+      "name": "Planta Đen",
+      "price": "250.000",
+      "img": "https://i.pinimg.com/474x/9f/0b/67/9f0b67cf757657051fe32ab4efaeb340.jpg",
+      "quantity": "156",
+      "status": "1",
+      "description": "Chậu câu màu đen, dùng để trồng cây"
+    }
+  ],
+  "search": [
+    {
+      "id": "d7aa",
+      "txt": "Bonsai"
+    },
+    {
+      "id": "c1d5",
+      "txt": "Planta Trắng"
+    },
+    {
+      "id": "7a0c",
+      "txt": "Cây"
+    },
+    {
+      "id": "2c0e",
+      "txt": "Tree Plant"
+    },
+    {
+      "id": "bf48",
+      "txt": "Tree plant"
+    }
+  ],
+  "cart": [],
+  "notices": []
+}
